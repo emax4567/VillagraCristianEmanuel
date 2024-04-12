@@ -1,3 +1,4 @@
+
 const personaje={
     "id": 140,
     "name": "Genital Washer",
@@ -20,14 +21,13 @@ const personaje={
     "url": "https://rickandmortyapi.com/api/character/140",
     "created": "2017-12-27T18:47:44.566Z"
 }
-//const jugador = {
-  //  "nombre": "nahuel",
-    //"apellido": "barrios",
-     //"apodos": "perrito",
-    //"edad": 28,
-    //clubes: ["san lorenzo","u.lay"];
-    //activo: true
-    //sueldo: 100000.99
-//}
-//console.log (jugador);
-//jugador.clubes[0];
+console.log(personaje);
+function buscar(){
+var n=getElementById("numero").value;
+if (personaje.id==n) {
+    document.getElementById("result"). innerHTML="personaje " personaje.name " esta "personaje.status
+} else {
+    document.getElementById("result"). innerHTML= "personaje no resgistrado"
+}
+}
+//fetch ('uhttps://rickandmortyapi.com/api/character/2')
