@@ -1,0 +1,30 @@
+//SINTAXIS//
+<etiqueta atributo="valor">
+...contenido...
+</etiqueta>
+//CODIGO BASE//
+<!doctype html>                          Indica el tipo de documento se tiene (en este caso html5)
+<html>                                   apertura del inicio de html (que tiene que estar al principio y al final)
+  <head>                                 el que va a llevar informacion inportante de la pagina (aun que esta no es la que se muestra)
+      <title titulo de la web</title>
+  </head>
+  <body>                                 aqui va estar toda la informacion que se va a mostrar dentro de la pagina web
+    <h1>titulo de la pagina</h1>
+  </body>
+</html>
+//ETIQUETAS DE ENCABEZAMIENTO//
+<H1></H1> (H1 .... H6) Encabezados         se usa la desde la etiqueta h1 hasta h6
+<p></p>                Parrafos
+<b></b>                Negrita
+<strong></strong>      Negrita (fuerza)   esta mas enfasis en la palabra para que sea mas facil que los buscadores encuentre esta palabra
+<i></i>                Cursiva
+<em></em>              Cursiva (enfasis)
+<hr>                   linea horinzontal
+<br>                   espaciados
+//ETIQUETA DE ESTRUCTURA//
+<HEADER></HEADER>      lleva la informacion del Encabezado (Titulo, logo, baner o algun escolgan)
+<nav></nav>            lleva los enlace de navegacion (menu de la pagina web)
+<aside></aside>        lleva informacion adicional a la pagina que se esta mostrando
+<section></section>    nos permine organizar de mejor manera la informacion de una pagina por porcines de su contenido segun su tema
+<article></article>    aquiba los articulos de lo blocks como ejemplo
+<foorter> </foorter>   aquiba la informacion de los derechos de autor, contactos, redes sociales, etc

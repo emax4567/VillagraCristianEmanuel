@@ -1,0 +1,18 @@
+//TABLAS//
+<table>
+      <tr>
+          <th>nombre</th>
+          <th>apellido</th>
+          <th>edad</th>
+      </tr>
+      <tr>
+          <td>marty<td>              I nombre I apellido I edad I
+          <td>mcfly<td> ------>      I marty  I mcfly    I 17   I
+          <td>17<td>                 I sarah  I connor   I 30   I
+      </tr>
+      <tr>
+          <td>sarah<td>
+          <td>connor<td>
+          <td>30<td>
+      </tr>
+</table>

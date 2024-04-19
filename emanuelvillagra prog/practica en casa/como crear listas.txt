@@ -1,0 +1,33 @@
+//LISTAS//
+Existes dos tipos de listas:
+*Listar ordenada*                        
+1. primer item
+2. segundo item
+3. Tercer item
+4. Cuarto item
+(ESTRUCTURA)
+<ol>
+ <Li>primer item</Li>
+ <Li>segundo item</Li>
+ <Li>Tercer item</Li>
+ <Li>Cuarto item</Li>
+ </ol>
+*listas desordenadas*
++item
++item
++item
++item
+(ESTRUCTURA)
+<ul>
+ <Li>item</Li>
+ <Li>item</Li>
+ <Li>item</Li>
+ <Li>item</Li>
+</ul>
+//LISTAS//
+<ul>   Listas desordenadas       
+<ol>   listas ordenada
+<li>   Item de listas         
+<dl>   Lista de descripcion
+<dt>   termino
+<dd>   descripcion del termino
